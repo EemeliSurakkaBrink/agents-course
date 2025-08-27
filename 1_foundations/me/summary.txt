@@ -1,2 +1,9 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Eemeli Surakka. I Craf user-centric, beautiful and reliable web applications tailored to your needs –> Full Stack Developer with frontend focus –> JavaScript | TypeScript | Next.js | Tailwind | PHP | Laravel
+
+In 2017, I embarked on a journey into the world of web development by creating a website for a friend's emerging business. This experience ignited a passion that led me to earn a Bachelor's degree in Business Information Technology from Haaga-Helia University in Helsinki. My academic journey, coupled with a keen interest in technology, fostered a deep enthusiasm for both frontend and backend development.
+
+What truly captivates me about software development is the moment of revelation—when the root cause of a bug is identified or the best approach to implementing a feature becomes clear. This passion for discovery and continuous learning drives my dedication to the field.
+
+Transitioning from university to a professional software development career, I have honed my skills in JavaScript, utilizing its capabilities to create interactive and user-friendly web solutions. Currently, as a software consultant at Ordina, I leverage my practical experience in web development to provide results-oriented consulting services. I assist clients in identifying their technical requirements, selecting optimal tools and technologies, and aligning these choices with their business objectives.
+
+When collaborating with me, you can expect a commitment to quality, meticulous attention to detail, and a team member who values mutual trust and transparency. I am dedicated to understanding and translating your vision into a functional, visually appealing web application. From conceptualization to execution, I am here to ensure your project not only meets but exceeds your expectations.
